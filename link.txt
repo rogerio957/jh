@@ -1,0 +1,555 @@
+#EXTM3U
+#EXTINF:-1,NBC Sports Washington HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/29044
+#EXTINF:-1,NBC Sports Chicago HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/29043
+#EXTINF:-1,BET HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/29042
+#EXTINF:-1,AXS TV HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/29037
+#EXTINF:-1,Cinemax East HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13680
+#EXTINF:-1,HBO East HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13685
+#EXTINF:-1,HGTV FHD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13835
+#EXTINF:-1,Golf Channel US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13687
+#EXTINF:-1,MSNBC HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/16841
+#EXTINF:-1,NHL Network US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13688
+#EXTINF:-1,Showtime East HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13666
+#EXTINF:-1,Starz Encore East HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13677
+#EXTINF:-1,Starz Edge HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13678
+#EXTINF:-1,A&E HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/10350
+#EXTINF:-1,Tennis Channel HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18386
+#EXTINF:-1,ABC WJLA Washington HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9026
+#EXTINF:-1,AMC HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13104
+#EXTINF:-1,Bravo HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/10704
+#EXTINF:-1,C-SPAN US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/10701
+#EXTINF:-1,Cartoon Network US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13103
+#EXTINF:-1,CBS Sports Network HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/10347
+#EXTINF:-1,CNBC FHD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9028
+#EXTINF:-1,CNN FHD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9029
+#EXTINF:-1,Comedy Central HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13102
+#EXTINF:-1,DIY Network HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13101
+#EXTINF:-1,E! HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9021
+#EXTINF:-1,ESPN HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9023
+#EXTINF:-1,ESPN 2 US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9022
+#EXTINF:-1,FOX News HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13100
+#EXTINF:-1,FOX Sports 1 HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9031
+#EXTINF:-1,FOX Sports 2 HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9030
+#EXTINF:-1,FX HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13098
+#EXTINF:-1,FXX HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13097
+#EXTINF:-1,Hallmark Channel HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9025
+#EXTINF:-1,HBO Family FHD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9017
+#EXTINF:-1,HBO Signature US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9016
+#EXTINF:-1,Lifetime Movies HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9078
+#EXTINF:-1,MLB Network HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/10699
+#EXTINF:-1,NBA TV HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9010
+#EXTINF:-1,NBC WRC HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9009
+#EXTINF:-1,Nick HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9012
+#EXTINF:-1,Paramount Network US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13107
+#EXTINF:-1,Syfy HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13095
+#EXTINF:-1,TBS HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13106
+#EXTINF:-1,USA Network HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/13105
+#EXTINF:-1,VH1 US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/12058
+#EXTINF:-1,Animal Planet HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/12060
+#EXTINF:-1,Discovery Channel HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/15717
+#EXTINF:-1,History HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/15712
+#EXTINF:-1,National Geographic HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/15714
+#EXTINF:-1,PBS US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/15715
+#EXTINF:-1,FreeForm HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/14294
+#EXTINF:-1,Oprah Winfrey Network US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/16295
+#EXTINF:-1,NASA Live HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/16585
+#EXTINF:-1,Nasa TV UHD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/30314
+#EXTINF:-1,TNT FHD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/15366
+#EXTINF:-1,The Weather Channel US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/17427
+#EXTINF:-1,Fight Sports US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/17883
+#EXTINF:-1,American Heroes Channel US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18064
+#EXTINF:-1,CBS 9 WUSA Washington HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18075
+#EXTINF:-1,Disney Junior US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18065
+#EXTINF:-1,Game Show Network FHD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18069
+#EXTINF:-1,IFC FHD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18070
+#EXTINF:-1,Investigation Discovery HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18071
+#EXTINF:-1,Lifetime HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18072
+#EXTINF:-1,MTV HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18076
+#EXTINF:-1,Reelz HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18074
+#EXTINF:-1,TLC HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18079
+#EXTINF:-1,Viceland FHD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18077
+#EXTINF:-1,ABC KTNV Las Vegas HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18179
+#EXTINF:-1,BBC America US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18181
+#EXTINF:-1,Big Ten Network US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18182
+#EXTINF:-1,Bloomberg TV US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18183
+#EXTINF:-1,CBSN HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18184
+#EXTINF:-1,Destination America HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18189
+#EXTINF:-1,ESPN U US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18190
+#EXTINF:-1,Food Network US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18191
+#EXTINF:-1,FXM HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18166
+#EXTINF:-1,Hallmark Movies & Mysteries HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18198
+#EXTINF:-1,HLN US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18199
+#EXTINF:-1,Oxygen HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18176
+#EXTINF:-1,Telemundo 20 HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18174
+#EXTINF:-1,Travel Channel HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18173
+#EXTINF:-1,Tru TV US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18172
+#EXTINF:-1,TV Land HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18171
+#EXTINF:-1,UFC Fight Pass HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18170
+#EXTINF:-1,UniMás Este HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18169
+#EXTINF:-1,SEC Network HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18175
+#EXTINF:-1,Olympic Channel HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18850
+#EXTINF:-1,NBC Sports Boston HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18853
+#EXTINF:-1,PAC 12 Arizona HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18854
+#EXTINF:-1,PAC 12 Bay Area HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18855
+#EXTINF:-1,PAC 12 Los Angeles HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18856
+#EXTINF:-1,PAC 12 Networks HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18857
+#EXTINF:-1,PAC 12 Mountain HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18858
+#EXTINF:-1,PAC 12 Oregon HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18859
+#EXTINF:-1,PAC 12 Washington HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18860
+#EXTINF:-1,FOX Soccer Plus HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18675
+#EXTINF:-1,Fight Network US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/19654
+#EXTINF:-1,ESPN News HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/19637
+#EXTINF:-1,MLB Network HD CA
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/21298
+#EXTINF:-1,Disney Channel HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/22823
+#EXTINF:-1,OAN TV HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23152
+#EXTINF:-1,Fuse HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23262
+#EXTINF:-1,ESPN Deportes HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23260
+#EXTINF:-1,CBS 11 KTVT Dallas HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23246
+#EXTINF:-1,CBS 13 WJZ Baltimore HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23247
+#EXTINF:-1,CBS 2 KCBS Los Angeles HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23249
+#EXTINF:-1,CBS 2 WCBS New York HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23250
+#EXTINF:-1,CBS 4 WFOR Miami HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23251
+#EXTINF:-1,CBS 47 WJAX Jacksonville HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23253
+#EXTINF:-1,CBS 62 WWJ Detroit HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23252
+#EXTINF:-1,ABC 10 WPLG Miami HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23234
+#EXTINF:-1,ABC 5 KOCO HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23235
+#EXTINF:-1,ABC 9 WCPO Cincinnati HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23236
+#EXTINF:-1,ABC 13 KTRK Houston HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23237
+#EXTINF:-1,ABC 15 KNXV Phoenix HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23238
+#EXTINF:-1,ABC 2 WMAR Baltimore HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23240
+#EXTINF:-1,ABC 6 WPVI Philadelphia HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23241
+#EXTINF:-1,ABC 7 WLS Chicago HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23242
+#EXTINF:-1,ABC 7 KMGH Denver HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23243
+#EXTINF:-1,ABC 7 KABC Los Angeles HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23244
+#EXTINF:-1,ABC 7 WABC New York HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23245
+#EXTINF:-1,CNBC World HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23222
+#EXTINF:-1,NBC 10 WBTS Boston HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23233
+#EXTINF:-1,NBC 10 WCAU Philadelphia HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23232
+#EXTINF:-1,NBC 4 KNBC Los Angeles HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23229
+#EXTINF:-1,NBC 5 WMAQ Chicago HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23227
+#EXTINF:-1,NBC 4 WNBC New York HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23228
+#EXTINF:-1,NBC 5 KXAS Dallas HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23226
+#EXTINF:-1,NBC 6 WTVJ Miami HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23225
+#EXTINF:-1,NBC KING Seattle HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23224
+#EXTINF:-1,NBC 11 WXIA Atlanta HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23223
+#EXTINF:-1,NBC Sports California FHD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23220
+#EXTINF:-1,NBCSN HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9008
+#EXTINF:-1,NBC Sports Philadelphia FHD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23218
+#EXTINF:-1,Discovery Family HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23424
+#EXTINF:-1,CW KVCW FHD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23660
+#EXTINF:-1,WWE Network US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/16572
+#EXTINF:-1,▬ NFL ▬
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/25448
+#EXTINF:-1,NFL Buccaneers 
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23617
+#EXTINF:-1,NFL Chiefs
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23616
+#EXTINF:-1,NFL Browns
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23615
+#EXTINF:-1,NFL Chargers
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23614
+#EXTINF:-1,NFL 49ers
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23613
+#EXTINF:-1,NFL Bears
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23612
+#EXTINF:-1,NFL Bengals
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23611
+#EXTINF:-1,NFL Vikings
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23610
+#EXTINF:-1,NFL Seahawks
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23609
+#EXTINF:-1,NFL Saints
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23608
+#EXTINF:-1,NFL Redskins
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23607
+#EXTINF:-1,NFL Rams
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23606
+#EXTINF:-1,NFL Packers
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23605
+#EXTINF:-1,NFL RedZone HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/18849
+#EXTINF:-1,NFL Network US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/9077
+#EXTINF:-1,Stadium HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/26264
+#EXTINF:-1,We TV HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/26275
+#EXTINF:-1,Yes TV HD CA
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/26274
+#EXTINF:-1,Universal Kids HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/26273
+#EXTINF:-1,SportsNet New York HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/26271
+#EXTINF:-1,BBC World News HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/26270
+#EXTINF:-1,NESN HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/26269
+#EXTINF:-1,Hallmark Drama HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/26268
+#EXTINF:-1,Ginx eSports TV HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/26267
+#EXTINF:-1,FOX Deportes HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/26266
+#EXTINF:-1,NBC Sports Bay Area FHD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23221
+#EXTINF:-1,Discovery Life HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27036
+#EXTINF:-1,UFC TV US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27221
+#EXTINF:-1,MTV U HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27305
+#EXTINF:-1,MSG HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27453
+#EXTINF:-1,MSG+ HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27452
+#EXTINF:-1,World Fishing Network HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27454
+#EXTINF:-1,Gol TV HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27455
+#EXTINF:-1,Nick Jr. US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27456
+#EXTINF:-1,NickToons US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27457
+#EXTINF:-1,TeenNick HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27459
+#EXTINF:-1,TVG HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27461
+#EXTINF:-1,NBC Universo Este HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27462
+#EXTINF:-1,Sony Movie Channel HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27463
+#EXTINF:-1,National Geographic Mundo HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27464
+#EXTINF:-1,National Geographic Wild HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27465
+#EXTINF:-1,Boomerang HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27466
+#EXTINF:-1,Cine Sony HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27467
+#EXTINF:-1,MTV Classic HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27468
+#EXTINF:-1,Cozi TV US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27470
+#EXTINF:-1,FYI HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27472
+#EXTINF:-1,FOX College Sports Atlantic HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27473
+#EXTINF:-1,FOX College Sports Pacific HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27475
+#EXTINF:-1,FOX College Sports Central HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27474
+#EXTINF:-1,FOX 4 Dallas KDFW HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27564
+#EXTINF:-1,ABC 8 WFAA Dallas HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27563
+#EXTINF:-1,FOX 5 WNYW NY HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/27544
+#EXTINF:-1,Outdoor Channel HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/28161
+#EXTINF:-1,NFL Texans
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/28169
+#EXTINF:-1,NFL Jaguars
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/28170
+#EXTINF:-1,NFL Colts 
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/28171
+#EXTINF:-1,MTV 2 HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/28185
+#EXTINF:-1,FOX 5 Atlanta WAGA HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/28219
+#EXTINF:-1,ABC 2 WSB Atlanta HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/28220
+#EXTINF:-1,VOA US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/28224
+#EXTINF:-1,Longhorn Network HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/28223
+#EXTINF:-1,Motor Trend HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/28222
+#EXTINF:-1,MTV Live HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/28235
+#EXTINF:-1,Sportsman Channel HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/28391
+#EXTINF:-1,ESPN Extra HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/28741
+#EXTINF:-1,Telemundo 47 WNJU (New York) HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/28847
+#EXTINF:-1,Telemundo 62 WWSI (Philadelphia) HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/28848
+#EXTINF:-1,CBS 2 WBBM Chicago HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/23248
+#EXTINF:-1,ACC Network HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/29493
+#EXTINF:-1,NBC 11 KARE Minneapolis HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/29494
+#EXTINF:-1,CBS 4 WCCO Minneapolis HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/29495
+#EXTINF:-1,ABC 5 KSTP Minneapolis HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/29496
+#EXTINF:-1,Telemundo 51 WSCV (Miami) HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/32688
+#EXTINF:-1,BabyFirst TV US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/33944
+#EXTINF:-1,Smithsonian Channel US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/25559
+#EXTINF:-1,HBO 2 HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/33945
+#EXTINF:-1,Starz In Black HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/33946
+#EXTINF:-1,Starz Comedy HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/33947
+#EXTINF:-1,Starz Cinema HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/33948
+#EXTINF:-1,Starz West HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/33950
+#EXTINF:-1,Starz East HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/33951
+#EXTINF:-1,Starz Kids & Family HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/33952
+#EXTINF:-1,Starz Encore West HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/33953
+#EXTINF:-1,Starz Encore Action HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/33954
+#EXTINF:-1,Starz Encore Classic HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/33955
+#EXTINF:-1,Starz Encore Black HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/33956
+#EXTINF:-1,Starz Encore Westerns HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/33957
+#EXTINF:-1,Starz Encore Family HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/33958
+#EXTINF:-1,Starz Encore Suspense HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/33959
+#EXTINF:-1,Flow Sports HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/26261
+#EXTINF:-1,Epix 2 HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/19606
+#EXTINF:-1,Epix Hits HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/19605
+#EXTINF:-1,Sundance TV HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/19607
+#EXTINF:-1,Pop TV HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/26997
+#EXTINF:-1,Epix HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/34023
+#EXTINF:-1,Epix Drive-In HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/34024
+#EXTINF:-1,Yes Network HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/35215
+#EXTINF:-1,TCM HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/35216
+#EXTINF:-1,FOX 9 KMSP Minneapolis HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/35217
+#EXTINF:-1,Flow Sports Premier (RUSH) HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/26263
+#EXTINF:-1,NBC 9 KUSA Denver HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/35343
+#EXTINF:-1,NBC Sports Northwest HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/35525
+#EXTINF:-1,CW New York WPIX 11 US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/35526
+#EXTINF:-1,ABC News US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/37143
+#EXTINF:-1,Showtime 2 HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/37838
+#EXTINF:-1,Fox Business HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/44161
+#EXTINF:-1,MLB Strikezone HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/51291
+#EXTINF:-1,Root Sports Northwest HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/51292
+#EXTINF:-1, AT&T SportsNet Southwest HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/51293
+#EXTINF:-1,AT&T SportsNet Pittsburgh HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/51294
+#EXTINF:-1,AT&T SportsNet Rocky Mountain HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/51295
+#EXTINF:-1,MASN FHD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/51296
+#EXTINF:-1,MASN 2 FHD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/51297
+#EXTINF:-1,NFL Lions
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/55033
+#EXTINF:-1,NFL Falcons
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/55034
+#EXTINF:-1,NFL Eagles
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/55035
+#EXTINF:-1,NFL Dolphins
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/55036
+#EXTINF:-1,NFL Cowboys
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/55037
+#EXTINF:-1,NFL Cardinals
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/55038
+#EXTINF:-1,NFL Titans
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/55039
+#EXTINF:-1,NFL Steelers
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/55040
+#EXTINF:-1,NFL Ravens
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/55041
+#EXTINF:-1,NFL Raiders
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/55042
+#EXTINF:-1,NFL Patriots
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/55043
+#EXTINF:-1,NFL Broncos
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/55044
+#EXTINF:-1,NFL Bills Giants Jets
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/55045
+#EXTINF:-1,FOX 5 San Diego KSWB HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/55049
+#EXTINF:-1,NFL Panthers
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/56169
+#EXTINF:-1,Fox 32 WFLD Chicago HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/63756
+#EXTINF:-1,Science HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/70828
+#EXTINF:-1,FOX 5 Washington DC WTTG HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/73854
+#EXTINF:-1,CMT HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/81432
+#EXTINF:-1,Cowboy Channel US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/81433
+#EXTINF:-1,Premier League TV (PC) HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/82944
+#EXTINF:-1,Altitude Sports HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/87127
+#EXTINF:-1,NBC News Now HD US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/87136
+#EXTINF:-1,MC 90's US
+http://tv.rapidswiss.hitv.one:80/Ba9rE6uhaoLY2893/ebawGPusx9CA0712/87143
